@@ -1,6 +1,6 @@
 # ALBU_notebooks
 
-## Suplementary material for Appendices
+## Suplimentary material for Appendices
 These are some of the notebooks that I have used as part of my PhD studies. They can be used as supporting documentation for my appendices as follows:
 
 ### Appendix A
@@ -17,6 +17,6 @@ A notebook showing how experiments are saved and how hyperparameters of an exper
 ##### dirichlet_approximation_Appendix_A.ipynb
 Here we compare the approximate messages from a Polya to Dirichlet node as calculated by the VMP (VB), ALBU and hierachical sampling.
 
-## Suplementary material for testing the VMP algorithm
+## Suplimentary material for testing the VMP algorithm
 ##### VMP.ipynb 
 In this notebook, we extract just the necessary code from our codebase and lda wrapper package to run VMP on the LDA graphical model. We also show how the text pre-processing is performed and how coherence metrics are plotted.
