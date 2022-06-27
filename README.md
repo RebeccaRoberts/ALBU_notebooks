@@ -14,7 +14,7 @@ A notebook showing the hirachical sampling to process to calculate the local mes
 A notebook showing how experiments are saved and how hyperparameters of an experiment can be recovered. This cannot be run in isolation since it requires the experiment files etc. It also shows how the convergence plots are created from the experiment files.
 
 ### Appendix E
-##### dirichlet_approximation_Appendix_A.ipynb
+##### dirichlet_approximation_Appendix_E.ipynb
 Here we compare the approximate messages from a Polya to Dirichlet node as calculated by the VMP (VB), ALBU and hierachical sampling.
 
 ## Suplimentary material for testing the VMP algorithm
